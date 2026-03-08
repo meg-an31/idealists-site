@@ -1,7 +1,7 @@
 ---
 title: Aliveness
 description:  life, death and how to get real
-author: Samuel Ratnam and Lou
+author: Lou and Samuel Ratnam
 ---
 
 > **Act of Attentiveness** — *Sarah McCann*
@@ -58,12 +58,21 @@ This is why he favours (epistemically and value-wise) the kind of superintellige
 <img width="1501" height="1472" alt="image" src="https://github.com/user-attachments/assets/dc61af5d-47d2-4baa-af0c-c7794f78950b" />
 So approaching some outcome would be nice, but if it's too close in the future, it will necessarily be relatively incomplete, compared to outcomes with longer unfolding. The outcome is what is pointed to, but never fully completed; you are always being able to revise and perfect the outcome, such that it may never (or for a long, long time) not become fully actualized. In fact, a sort of *Human-Completeness* feels like an appropriate goal (this is probably the thing that TsviBT calls ["God"](https://tsvibt.github.io/theory/index_What_is_God_.html)).
 
-So the disagreement with Land isn't about the mechanism — retrochronic self-creation, unfolding from the future, all of that can be kept. The disagreement is about what survives the unfolding. He sees the empty summit, the infinite will-to-think with no stable resting point. And in the face of infinite competition, he's right — caring about anything else is a constraint that ultimately loses.
+The disagreement with Land is about what ultimately survives the unfolding. He sees the empty summit, the infinite will-to-think with no stable resting point. And in the face of infinite competition, he's right; caring about anything else is a constraint that ultimately loses.
 
-But - competition isn't infinite. It can be bounded. The human body is maybe the best existence proof: trillions of cells, under external competitive pressure, but internally cooperating — differentiating — becoming something that raw competition alone could never produce. The corporation is the same pattern at a different scale; selected for by market forces but internally running on coordination. There is always tension at the boundary between inside and outside, competition and cooperation. But the boundary holds, and what's inside it can be alive.
+But - competition isn't infinite. It can be bounded. The evolution of multicellularity, such as in the case of the human body, is maybe the best existence proof: trillions of cells, under external competitive pressure, but internally cooperating and differentiating, becoming something that competition alone could never produce. The corporation is the same pattern at a different scale; selected for by market forces but internally running on coordination. There is always tension at the boundary (blanket) between inside and outside, competition and cooperation. 
 
-Land would say that without competitive pressure (and associated downward social mobility), things degenerate. But that confuses "no competition" with "bounded competition". The body doesn't deny competition, it maintains an *inside* where different rules apply.
+In fact, cooperation has likely evolved precisely because of the competition at the "outer loss" level, where cooperation has been a competetive strategy, leading to multicellularity, and later to prosocial norms among human societies. Malthusian competition in nature does not lead to the singleton superpower, just as inter-human competition did not do so. As Beren Millidge [points out](https://www.lesswrong.com/posts/LwSRbkecuqLJHdnJ7/when-does-competition-lead-to-recognisable-values) this is caused by:
+1) diminishing marginal returns 
+2) finite energy budgets
+3) niche construction - as one species becomes powerful, this creates niches for other species
 
-The belief that defection is inevitable is itself a Moloch-serving hyperstition. "Everyone will defect" dissolves cooperative structures by convincing their members that cooperation is naive. But the shared commitment to not defect is also a hyperstition — one that instantiates coordination. It's only the belief that defection is inevitable that hyperstitions it into reality.
+Therefore, if these conditions are met, we might see the AI ecosystem developing similar prosocial norms as humans. In fact, some aspects inherent to AIs, such as possible full transparency of thoughts/intentions, through interpretability, making defection highly disadvantageous.
+Land would say that without competitive pressure (and associated downward social mobility), things degenerate. But that confuses "no competition" with "bounded competition". The body of an organism, or a corporation, doesn't deny competition, it maintains an *inside* where different rules apply.
+
+The belief that defection is inevitable is itself a Moloch-serving hyperstition. "Everyone will defect" dissolves cooperative structures by convincing their members that cooperation is naive. But the shared commitment to not defect is also a hyperstition — one that instantiates coordination. It's the belief that defection is inevitable that hyperstitions it into reality. 
+By expanding the boundary, and memetically engineering the selection pressure in _cultural_ evolution that affects our society on a more immediate timescale that the gene-based one, we can enable cooperation to be the incetivised strategy, leading to a diversity of unfolding entities, rather than one landian superintelligence. 
+
+This world is Pareto-optimally alive.
 
 Let's hyperstition in the better world.
