@@ -108,15 +108,15 @@
 </script>
 
 <svelte:head>
-	<title>The Idealists Unconference — April 2026</title>
-	<meta name="description" content="A week-long gathering to imagine the future. April 4–12, 2026 in the Cotswolds and London." />
+	<title>The Idealists Unconference</title>
+	<meta name="description" content="A week-long gathering to imagine the future. Dates TBC." />
 </svelte:head>
 
 <div class="unconference" class:mounted>
 	<!-- Hero -->
 	<header class="hero">
 		<div class="hero-content">
-			<p class="hero-label">April 4–12, 2026</p>
+			<p class="hero-label">Dates TBC</p>
 			<h1 class="hero-title">
 				<span class="title-line">The Idealists</span>
 				<span class="title-line accent">Unconference</span>

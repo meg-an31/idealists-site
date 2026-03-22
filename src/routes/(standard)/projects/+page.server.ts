@@ -17,7 +17,7 @@ const projects: Project[] = [
 	{
 		name: 'The Idealists Unconference',
 		url: '/unconference',
-		description: 'A week-long gathering to imagine the future. April 4–12, 2026: five days in the Cotswolds, two days in London. Creating a time capsule from possible futures.'
+		description: 'A week-long gathering to imagine the future. Dates TBC. Creating a time capsule from possible futures.'
 	},
 	{
 		name: 'Web Decompiler',
