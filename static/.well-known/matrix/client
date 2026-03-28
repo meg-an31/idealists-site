@@ -1,5 +1,11 @@
 {
   "m.homeserver": {
     "base_url": "https://matrix.idealistscollective.org"
-  }
+  },
+  "org.matrix.msc4143.rtc_foci": [
+    {
+      "type": "livekit",
+      "livekit_service_url": "https://idealists-matrix-rtc.siri.ws"
+    }
+  ]
 }
