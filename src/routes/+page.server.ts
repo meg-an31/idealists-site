@@ -1,7 +1,10 @@
 import type { PageServerLoad } from './$types';
 
 const pageModules = import.meta.glob('./**/+page.svelte');
-const writingModules = import.meta.glob('/src/lib/writings/*/content.md');
+const writingModules = import.meta.glob('/src/lib/writings/*/content.md', {
+	query: '?raw',
+	import: 'default'
+});
 
 const EXCLUDED = new Set<string>(['/', '/unconference']);
 
