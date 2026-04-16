@@ -137,7 +137,11 @@
         </div>
 
         <aside class="random-page">
-            <a href={data.randomRoute}>here</a> is a random page from this site, just for you &lt;3
+            <a
+                href={data.randomRoute}
+                class="random-bracket"
+                aria-label="visit a random page">&#123;?&#125;</a
+            > a random page from this site, just for you &lt;3
         </aside>
 
         <div class="index-col">
@@ -326,16 +330,20 @@
         text-align: right;
     }
 
-    .random-page a {
+    .random-bracket {
         color: var(--accent);
         text-decoration: none;
-        border-bottom: 1px solid color-mix(in srgb, var(--accent) 50%, transparent);
-        transition: color 0.2s, border-color 0.2s;
+        font-family: var(--font-body);
+        transition: color 0.3s ease, text-shadow 0.3s ease;
     }
 
-    .random-page a:hover {
+    .random-bracket:hover,
+    .random-bracket:focus-visible {
         color: var(--heading);
-        border-bottom-color: var(--heading);
+        outline: none;
+        text-shadow:
+            0 0 8px color-mix(in srgb, var(--accent) 60%, transparent),
+            0 0 16px color-mix(in srgb, var(--accent) 30%, transparent);
     }
 
     @media (min-width: 640px) {
