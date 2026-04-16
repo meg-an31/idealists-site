@@ -8,9 +8,6 @@
 
     let { data }: { data: PageData } = $props();
 
-    let definitionRevealed = $state(false);
-    const revealDefinition = () => { definitionRevealed = true; };
-
     let titleEl: HTMLElement | undefined = $state();
     let idealistsEl: HTMLElement | undefined = $state();
     let definitionTopOffset = $state(0);
@@ -100,13 +97,10 @@
                 <img class="flower-underlay" src="/flower-logo.png" alt="" aria-hidden="true" />
                 <span>THE</span>
                 <span bind:this={idealistsEl} class="with-footnote"
-                    >IDEALISTS<button
-                        type="button"
+                    >IDEALISTS<a
+                        href="/writings/what-is-this"
                         class="footnote"
-                        aria-label="what is this?"
-                        onmouseenter={revealDefinition}
-                        onfocus={revealDefinition}
-                        onclick={revealDefinition}>&#123;?&#125;</button
+                        aria-label="what is this?">&#123;?&#125;</a
                     ></span
                 >
                 <span>COLLECTIVE</span>
@@ -131,12 +125,9 @@
 
         <div
             class="definition-col"
-            class:revealed={definitionRevealed}
             style="--def-top: {definitionTopOffset}px;"
         >
-            {#if definitionRevealed}
-                <Definition />
-            {/if}
+            <Definition />
         </div>
     </div>
 
@@ -276,12 +267,6 @@
     .definition-col {
         align-self: start;
         min-height: 0;
-        opacity: 0;
-        transition: opacity 0.5s ease;
-    }
-
-    .definition-col.revealed {
-        opacity: 1;
     }
 
     @media (min-width: 1280px) {
